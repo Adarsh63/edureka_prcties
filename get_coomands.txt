@@ -11,3 +11,5 @@ ls
 git branch
 cat test1.txt
 git branch
+git push origin <branch_name>
+dxfdxf
