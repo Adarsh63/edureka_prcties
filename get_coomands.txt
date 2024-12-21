@@ -1,0 +1,13 @@
+git branch
+git pull
+ls
+git branch
+git checkout test-push2
+git branch
+git checkout main
+git branch
+git merge test-push2
+ls
+git branch
+cat test1.txt
+git branch
